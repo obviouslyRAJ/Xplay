@@ -1,6 +1,8 @@
-# Xplay
+# Xplay 
 
 **Your intel desk for upcoming and trending games — built for India and Asia.**
+
+Experience now! ->https://xplay.edgeone.dev/
 
 Xplay tracks the games that actually matter to Indian and Asian gamers: India-exclusive titles like BGMI, region-wide staples like Free Fire and Mobile Legends, the anime gacha RPGs dominating screen time (Genshin, Wuthering Waves, Honkai: Star Rail), and the global AAA releases everyone's still watching (GTA 6). Every game gets a release tracker, an insight breakdown, a live news feed, a Reddit sentiment pulse, and the known issues and hidden features nobody puts in the patch notes.
 
